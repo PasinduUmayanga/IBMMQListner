@@ -1,0 +1,25 @@
+{
+
+  "IBMMQ_ENDPOINTS": [
+    {
+      "IpAddress": "127.0.0.1",
+      "PortNumber": 1421,
+      "CheckTimeIntervalMiliSeconds": 2000,
+      "QueueManagerName": "QM_TEST",
+      "QueueName": "QM_TEST.LOCAL.ONE",
+      "ChannelName": "QM_TEST.SVRCONN",
+      "UserName": "SLTESTUSER",
+      "Password": "12345678"
+    },
+    {
+      "IpAddress": "127.0.0.1",
+      "PortNumber": 1422,
+      "CheckTimeIntervalMiliSeconds": 2000,
+      "QueueManagerName": "QM_TEST_01",
+      "QueueName": "QM_TEST.LOCAL.TWO",
+      "ChannelName": "QM_TEST.SVRCONN",
+      "UserName": "SLTESTUSER",
+      "Password": "12345678"
+    }
+  ]
+}
