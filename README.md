@@ -1,6 +1,6 @@
 # IBMMQListner
 
-[![Build status](https://ci.appveyor.com/api/projects/status/github/Mahadenamuththa/IBMMQListner?branch=master&svg=true)](https://ci.appveyor.com/project/PasinduUmayanga/IBMMQListner/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/yxu3mfpnvs9av5ag?svg=true)](https://ci.appveyor.com/project/Mahadenamuththa/ibmmqlistner)
 [![Build History](https://img.shields.io/badge/AppVeyor-Build%20History-blue?logo=appveyor)](https://ci.appveyor.com/project/PasinduUmayanga/IBMMQListner/history)
 
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-512BD4?logo=dotnet&logoColor=white)
